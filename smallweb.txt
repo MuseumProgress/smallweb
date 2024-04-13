@@ -12373,3 +12373,6 @@ https://zwclose.github.io/feed.xml
 https://zwischenzugs.com/feed
 https://マリウス.com/index.xml
 https://bxt.rs/index.xml
+https://insidethearts.com/buttsintheseats/feed/
+https://itsallhowyourememberit.wordpress.com/feed/
+https://museumprogress.com/letters?format=rss
